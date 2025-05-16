@@ -11,8 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tristannguyen04" alt="tristannguyen04" /></a> </p>
 
-<!-- TODO: Template (change later) -->
-- 🌟 Currently studying and developing knowledge in: **Backend Systems, Distributed Architectures, and Scalable Cloud Infrastructure** ☁️  
+- 🌟 Currently studying and developing knowledge in: **Backend Systems, Distributed Architectures, Scalable Cloud Infrastructure, and Database Design** ☁️🗃️
 
 - 💬 Happy to chat about: **REST APIs, Spring Boot, Flask, Microservices, System Design, and industry-level backend frameworks** 🗄️  
 
