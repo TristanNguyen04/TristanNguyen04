@@ -26,7 +26,7 @@
 <a href="dungquoc_nguyen@mymail.sutd.edu.sg" target="blank"><img align="center" src="./assets/icons/icons8-outlook.svg" alt="TristanNguyen04-Outlook" height="30" width="40"/></a>
 <a href="https://t.me/dungtristan" target="blank"><img align="center" src="./assets/icons/icons8-telegram.svg" alt="TristanNguyen04-Telegram" height="30" width="40"/></a>
 <a href="https://www.reddit.com/user/TristanNguyen04/" target="blank"><img align="center" src="./assets/icons/reddit.svg" alt="TristanNguyen04-Reddit" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/tristannguyen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/tristannguyen/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/tristannguyen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/tristannguyen/" height="30" width="40" /></a>
 <a>
 </p>
 
