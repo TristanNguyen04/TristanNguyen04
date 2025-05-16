@@ -1,20 +1,24 @@
-<h1 align="center">Hi 👋, I'm Tristan Nguyen</h1>
+<h1 align="center">👋 Hello World, I'm Tristan Nguyen 🚀</h1>
 <h3 align="center">An aspiring backend engineer, passionate about scalable systems</h3>
+
+<p align="left">
+👨‍🎓 I'm a Vietnamese 🇻🇳 Computer Science and Design undergraduate at the Singapore University of Technology and Design (SUTD), currently pursuing a Minor in Artificial Intelligence 🤖. As a Wilmar–SUTD Scholar 🏅 and honours list recipient 📜, I’m deeply passionate about backend development 🔧, distributed systems 🌐, and building scalable solutions that power real-world applications ⚙️.
+
+💻 From developing AI-powered web tools 🧠 to leading Android health app development 📱, I love crafting systems that are not only functional — but robust 🛡️, secure 🔒, and production-ready 🚀.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tristannguyen04&label=Profile%20views&color=0e75b6&style=flat" alt="tristannguyen04" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tristannguyen04" alt="tristannguyen04" /></a> </p>
 
 <!-- TODO: Template (change later) -->
-- 🔭 I’m currently working on **Vexa Web App**
+- 🌟 Currently studying and developing knowledge in: **Backend Systems, Distributed Architectures, and Scalable Cloud Infrastructure** ☁️  
 
-- 🌱 I’m currently learning **DevOps**
+- 💬 Happy to chat about: **REST APIs, Spring Boot, Flask, Microservices, System Design, and industry-level backend frameworks** 🗄️  
 
-- 💬 Ask me about **Android , MEARN**
+- 📫 Reach out to me at: dungquoc_nguyen@mymail.sutd.edu.sg
 
-- 📫 How to reach me **dungquoc_nguyen@mymail.sutd.edu.sg**
-
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact: I can play football until I drop ⚽💀 (seriously, don't challenge me 😆)
 
 <h3 align="left"> Connect with me:</h3>
 <p align="left">
@@ -35,10 +39,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tristannguyen04&show_icons=true&locale=en" alt="tristannguyen04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tristannguyen04&" alt="tristannguyen04" /></p>
-
-
-
-
-
-
-
