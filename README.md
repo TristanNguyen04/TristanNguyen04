@@ -2,9 +2,15 @@
 <h3 align="center">An aspiring backend engineer, passionate about scalable systems</h3>
 
 <p align="left">
-👨‍🎓 I'm a Vietnamese 🇻🇳 Computer Science and Design undergraduate at the Singapore University of Technology and Design (SUTD), currently pursuing a Minor in Artificial Intelligence 🤖. As a Wilmar–SUTD Scholar 🏅 and honours list recipient 📜, I’m deeply passionate about backend development 🔧, distributed systems 🌐, and building scalable solutions that power real-world applications ⚙️.
+👨‍🎓 I'm a Vietnamese 🇻🇳 Computer Science and Design undergraduate at the Singapore University of Technology and Design (SUTD), currently pursuing a Minor in Artificial Intelligence 🤖. As a Wilmar–SUTD Scholar 🏅 and honours list recipient 📜, I'm deeply passionate about backend development 🔧, distributed systems 🌐, and building scalable solutions that power real-world applications ⚙️.
 
 💻 From developing AI-powered web tools 🧠 to leading Android health app development 📱, I love crafting systems that are not only functional — but robust 🛡️, secure 🔒, and production-ready 🚀.
+</p>
+
+<p align="left">
+  <a href="https://dungquocnguyen.vercel.app/" target="blank">
+    <img src="https://img.shields.io/badge/Find_out_more-https://dungquocnguyen.vercel.app/-blue?style=for-the-badge" alt="https://dungquocnguyen.vercel.app/ ">
+  </a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tristannguyen04&label=Profile%20views&color=0e75b6&style=flat" alt="tristannguyen04" /> </p>
