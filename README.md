@@ -9,11 +9,11 @@
 
 <p align="left">
   <a href="https://dungquocnguyen.vercel.app/" target="blank">
-    <img src="https://img.shields.io/badge/Find_out_more-https://dungquocnguyen.vercel.app/-blue?style=for-the-badge" alt="https://dungquocnguyen.vercel.app/ ">
+    <img src="https://img.shields.io/badge/Find_out_more-https://dungquocnguyen.vercel.app/-0e75b6?style=for-the-badge" alt="https://dungquocnguyen.vercel.app/ ">
   </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tristannguyen04&label=Profile%20views&color=0e75b6&style=flat" alt="tristannguyen04" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tristannguyen04&label=Profile%20views&color=0e75b6&style=flat" alt="tristannguyen04" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tristannguyen04" alt="tristannguyen04" /></a> </p>
 
