@@ -19,7 +19,7 @@
 
 - 🌟 Currently studying and developing knowledge in: **Backend Systems, Distributed Architectures, Scalable Cloud Infrastructure, and Database Design** ☁️🗃️
 
-- 💬 Happy to chat about: **REST APIs, Spring Boot, Flask, Microservices, System Design, and industry-level backend frameworks** 🗄️  
+- 💬 Happy to chat about: **REST APIs, Spring Boot, Dropwizard, Flask, Microservices, System Design, and industry-level backend frameworks** 🗄️  
 
 - 📫 Reach out to me at: nquocdung.04@gmail.com
 
