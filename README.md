@@ -21,7 +21,7 @@
 
 - 💬 Happy to chat about: **REST APIs, Spring Boot, Flask, Microservices, System Design, and industry-level backend frameworks** 🗄️  
 
-- 📫 Reach out to me at: dungquoc_nguyen@mymail.sutd.edu.sg
+- 📫 Reach out to me at: nquocdung.04@gmail.com
 
 - ⚡ Fun fact: I can play football until I drop ⚽💀 (seriously, don't challenge me 😆)
 
