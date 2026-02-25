@@ -1,21 +1,13 @@
-<h1 align="center">👋 Hello World, I'm Tristan Nguyen 🚀</h1>
-<h3 align="center">An aspiring backend engineer, passionate about scalable systems</h3>
+<h1 align="center">👋 Hey, I'm Tristan Nguyen! 🚀</h1>
+<h3 align="center">Software Engineering Student @ SUTD 🇸🇬 | System Design Enthusiast 🏗️ | AI Workflow Explorer 🤖</h3>
 
 <p align="left">
-👨‍🎓 I'm a Vietnamese 🇻🇳 Computer Science and Design undergraduate at the Singapore University of Technology and Design (SUTD), currently pursuing a Minor in Artificial Intelligence 🤖. As a Wilmar–SUTD Scholar 🏅 and honours list recipient 📜, I'm deeply passionate about backend development 🔧, distributed systems 🌐, and building scalable solutions that power real-world applications ⚙️.
-
-💻 From developing AI-powered web tools 🧠 to leading Android health app development 📱, I love crafting systems that are not only functional — but robust 🛡️, secure 🔒, and production-ready 🚀.
+  I’m a Computer Science student at SUTD with a deep-seated passion for the "how" and "why" behind building robust, scalable systems 🛠️. I spend most of my time thinking about <b>system design</b> and exploring how <b>agentic AI</b> can meaningfully enhance software development workflows rather than just adding noise 🌊.
+  
+  I love diving into the technical trade-offs of modern architecture and figuring out how automation can make engineering more intuitive and production-ready 🛡️. For me, it’s not just about writing code—it’s about the collaborative process of solving complex puzzles and building things that last 🧩.
+  
+  Always down to nerd out over microservices 🌐, the future of AI-augmented engineering ✨, or where software is headed next. Let’s connect and talk shop! ☕
 </p>
-
-<p align="left">
-  <a href="https://dungquocnguyen.vercel.app/" target="blank">
-    <img src="https://img.shields.io/badge/Find_out_more-https://dungquocnguyen.vercel.app/-0e75b6?style=for-the-badge" alt="https://dungquocnguyen.vercel.app/ ">
-  </a>
-</p>
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tristannguyen04&label=Profile%20views&color=0e75b6&style=flat" alt="tristannguyen04" /> </p> -->
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tristannguyen04" alt="tristannguyen04" /></a> </p>
 
 - 🌟 Currently studying and developing knowledge in: **Backend Systems, Distributed Architectures, Scalable Cloud Infrastructure, and Database Design** ☁️🗃️
 
@@ -26,7 +18,7 @@
 <h3 align="left"> Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dungquocnguyen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="TristanNguyen04-Linkedin" height="30" width="40"/></a>
-<a href="nquocdung.04@gmail.com" target="blank"><img align="center" src="./assets/icons/icons8-outlook.svg" alt="TristanNguyen04-Gmail" height="30" width="40"/></a>
+<a href="nquocdung.04@gmail.com" target="blank"><img align="center" src="./assets/icons/icons8-gmail-48.svg" alt="TristanNguyen04-Gmail" height="30" width="40"/></a>
 <a href="https://t.me/dungtristan" target="blank"><img align="center" src="./assets/icons/icons8-telegram.svg" alt="TristanNguyen04-Telegram" height="30" width="40"/></a>
 </p>
 
