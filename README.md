@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Tristan Nguyen! 🚀</h1>
-<h3 align="center">Software Engineering Student @ SUTD 🇸🇬 | System Design Enthusiast 🏗️ | AI Workflow Explorer 🤖</h3>
+<h3 align="center">Computer Science Student @ SUTD 🇸🇬 | System Design Enthusiast 🏗️ | AI Workflow Explorer 🤖</h3>
 
 <p align="left">
   I’m a Computer Science student at SUTD with a deep-seated passion for the "how" and "why" behind building robust, scalable systems 🛠️. I spend most of my time thinking about <b>system design</b> and exploring how <b>agentic AI</b> can meaningfully enhance software development workflows rather than just adding noise 🌊.
