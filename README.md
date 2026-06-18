@@ -21,6 +21,3 @@
 <a href="mailto:nquocdung.04@gmail.com" target="blank"><img align="center" src="./assets/icons/icons8-gmail.svg" alt="TristanNguyen04-Gmail" height="30" width="40"/></a>
 <a href="https://t.me/dungtristan" target="blank"><img align="center" src="./assets/icons/icons8-telegram.svg" alt="TristanNguyen04-Telegram" height="30" width="40"/></a>
 </p>
-
-<h3 align="left">Profile Stats:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tristannguyen04&" alt="tristannguyen04" /></p>
