@@ -16,7 +16,6 @@
 
 - 🔭 Focus areas: **Backend Engineering, Payment Systems, Distributed Systems, Reliability Engineering, and Applied Machine Learning**
 - 🛠️ Core stack: **TypeScript, Java, Python, Go, C, NestJS, Spring Boot, PostgreSQL, Redis, AWS, Docker, and Kubernetes**
-- 📌 Selected projects: **Deep-Credit** (fraud detection with PyTorch), **StayEase** (full-stack booking platform), and **Retro-Vision** (C-based ASCII video engine)
 - 🎓 Expected to graduate in **May 2027**
 - 💼 Available for full-time Software Engineer opportunities from **May 2027**
 - 📫 Reach me at: **nquocdung.04@gmail.com**
