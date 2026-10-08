@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm Tristan Nguyen!</h1>
 <h3 align="center">
-  Senior CS Student @ SUTD 🎓 | Ex-SWE Intern @ ShopBack 💻
+  Y4 CS @ SUTD 🎓 | Ex-SWE Intern @ ShopBack 💻
 </h3>
 
 <p align="center">
